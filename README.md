@@ -23,3 +23,4 @@ numpy - formatting the data and presenting it to the model in a way that was com
 os - various file management shenanigans
 ## Resources
 https://www.tensorflow.org/tutorials/load_data/images + Various StackOverflow threads as issues came up
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection - Dataset
