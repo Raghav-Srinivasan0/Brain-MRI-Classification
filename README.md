@@ -13,7 +13,7 @@ Edit lines 11, 13, 14, 16, and 17 in main.py to change the path to your desired 
 ## Run the prediction script
 
 Run predict.py and select an image placed in the dataset_uniform directory so that it can be ensured that the image being inputted is of size 200x200
-## Dependencies
+# Dependencies
 Pillow - Opening and changing the size of images
 glob - Opening entire directories as lists
 tensorflow - The ML Model
@@ -21,6 +21,6 @@ keras - using the Sequential model and various layer types
 matplotlib - using pyplot to get a performance graph over time
 numpy - formatting the data and presenting it to the model in a way that was comprehensible
 os - various file management shenanigans
-## Resources
+# Resources
 https://www.tensorflow.org/tutorials/load_data/images + Various StackOverflow threads as issues came up
 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection - Dataset
